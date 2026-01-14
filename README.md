@@ -18,3 +18,5 @@
 ## W2
 ### Activity 1: MG2 Breakdown
 ![MG2 Breakdown](https://github.com/user-attachments/assets/1cbb0a0f-f809-4a96-9c37-d4b2b781b38a)
+### Activity 2: Work on MG2
+[MG2 Class Commit](https://github.com/UCI-GDIM32-W25/mg2-Milla-L/commit/40227b3f860eea2e48d5f7ebf44faea45ed57c59)
