@@ -14,3 +14,6 @@
 8. change to _playertransform.Translate(_direction);
 ### Activity 3
 [MG1 Breakdown](https://docs.google.com/document/d/1ItG4dZjoaa4lzg4txGNIlp00ONVVm-BPawFd5McfTTc/edit?tab=t.0)
+
+## W2
+### Activity 1: MG2 Breakdown
