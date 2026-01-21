@@ -25,4 +25,5 @@
 ### Activities 0-2: Partner Coding
 Landon
 ### Activity 3: MG3 Breakdown
+![MG3 Breakdown](https://github.com/user-attachments/assets/1d654c86-85cf-4a78-88d8-aed78bf6e437)
 
