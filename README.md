@@ -35,3 +35,4 @@ When there are multiple locator scripts, all but the most recent script gets del
 ![MG4BD](https://github.com/user-attachments/assets/db8cf8d2-d334-4746-8bba-4a4c22949cb8)
 ### Activity 3: In Class Coding
 [MG4 Class Commit](https://github.com/Milla-L/HW4/commit/d99f28d329c495d9b45c5166ba29db8d92bf4275)
+I created the project, got it in Github, imported all the assets, and started making the script types for the objects. I also started on the bird and ground game objects. 
