@@ -27,3 +27,7 @@ Landon
 ### Activity 3: MG3 Breakdown
 ![MG3 Breakdown](https://github.com/user-attachments/assets/1d654c86-85cf-4a78-88d8-aed78bf6e437)
 
+## W4
+### Activity 1: Partner Coding Events
+Landon
+When there are multiple locator scripts, all but the most recent script gets deleted but the game objects remain. This is because the script makes it so that it can only be instantiated once. 
