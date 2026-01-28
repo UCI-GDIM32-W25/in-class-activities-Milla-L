@@ -33,4 +33,5 @@ Landon
 When there are multiple locator scripts, all but the most recent script gets deleted but the game objects remain. This is because the script makes it so that it can only be instantiated once. 
 ### Activity 2: MG4 Breakdown
 ![MG4BD](https://github.com/user-attachments/assets/db8cf8d2-d334-4746-8bba-4a4c22949cb8)
-
+### Activity 3: In Class Coding
+[MG4 Class Commit](https://github.com/Milla-L/HW4/commit/d99f28d329c495d9b45c5166ba29db8d92bf4275)
