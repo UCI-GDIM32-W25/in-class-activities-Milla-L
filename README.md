@@ -31,3 +31,6 @@ Landon
 ### Activity 1: Partner Coding Events
 Landon
 When there are multiple locator scripts, all but the most recent script gets deleted but the game objects remain. This is because the script makes it so that it can only be instantiated once. 
+### Activity 2: MG4 Breakdown
+![MG4BD](https://github.com/user-attachments/assets/db8cf8d2-d334-4746-8bba-4a4c22949cb8)
+
