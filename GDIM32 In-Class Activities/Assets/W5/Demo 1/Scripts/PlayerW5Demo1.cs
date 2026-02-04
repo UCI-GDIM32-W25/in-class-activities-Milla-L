@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
@@ -41,6 +42,7 @@ public class PlayerW5Demo1 : MonoBehaviour
 // But do you think there are any downsides to these items *ONLY* being edit-able
 //      from the Player GAMEOBJECT?
 
+[Serializable]
 public class InventoryItem {
     public string itemName;
 }
