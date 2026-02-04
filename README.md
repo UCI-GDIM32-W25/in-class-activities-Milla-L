@@ -36,3 +36,17 @@ When there are multiple locator scripts, all but the most recent script gets del
 ### Activity 3: In Class Coding
 [MG4 Class Commit](https://github.com/Milla-L/HW4/commit/d99f28d329c495d9b45c5166ba29db8d92bf4275)
 I created the project, got it in Github, imported all the assets, and started making the script types for the objects. I also started on the bird and ground game objects. 
+
+##W5
+### Activity 1: Abstract Classes and Interfaces
+If I were editing it in an actual game setting, I would separate everything out to have their own scripts. It is much easier to read small spurts than the massive logics. I would also make _durability a SerializeField so that it can be tested easier and without having to hard code it. I think that the rest is fine for what it is right now. 
+### Activity 2: Scriptable Objects Demo
+In the first demo, the MVC pattern has the player controlling everything, displaying everything, and modelling everything with there only being the two other classes that were empty. In the second demo, the MVC pattern has the player as a singleton that updates movement and shows the inventory which is the View. The inventory has the controller part so that it can move through the logic separately. The model comes from the EnemyStats and ItemDemo scripts. This version works better because all aspects are able to function separately while collaborating to form the pattern. 
+### Activity 3: Design Patterns Discussion
+Inheritance: The parent class would be the inputs so that the individual input indicators can function the same. The different inputs would be the child classes so that they are unique. 
+Finite State Machine: The state machine would comprise of the button rankings seen at the end. It would determine what classifies as Cool, Fine, Safe, or Sad between the inputs.
+Singleton: The audio manager would be a singleton as well as the UI elements and Miku animator in the back. 
+### Activity 4: Attendance and First Draft
+Minjoo Shin, Sonia Mangat, Milla Lucido
+[Final First Draft Work](https://docs.google.com/document/d/1t76iuo2Br_0iJsKgst12nwN4ChwI5BFe61iVY1-cFXg/edit?tab=t.0)
+
