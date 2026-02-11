@@ -53,26 +53,26 @@ Minjoo Shin, Sonia Mangat, Milla Lucido
 ## W6
 ### Activity 1: Tool Demos
 Demo 1: Performance Profiling
-Window->Analysis->Profiler-> run game-> pause game; 
-Go through objects and see what is causing lag
-Important: GC Alloc, Calls, & Time
-Remove Debugs as fixed, Do not Update() too many strings
-Use member variables to avoid Update() cluttering
-Use GetComponent() sparingly and not in Update()
-No giant textures or dense meshes, and not much need for mesh colliders (GPU)
-Only physics objects need Rigidbodies or if still needed, set to Kinematic
+- Window->Analysis->Profiler-> run game-> pause game; 
+- Go through objects and see what is causing lag
+- Important: GC Alloc, Calls, & Time
+- Remove Debugs as fixed, Do not Update() too many strings
+ -Use member variables to avoid Update() cluttering
+- Use GetComponent() sparingly and not in Update()
+- No giant textures or dense meshes, and not much need for mesh colliders (GPU)
+- Only physics objects need Rigidbodies or if still needed, set to Kinematic
 
 Demo 2: Breakpoints
-Go to error
-Put in Breakpoint to stop game at that code line
-Shows variables that are active at the time of stop
-Hover over to see what is null
-Call stack shows what methods were called before that line
+- Go to error
+- Put in Breakpoint to stop game at that code line
+- Shows variables that are active at the time of stop
+- Hover over to see what is null
+- Call stack shows what methods were called before that line
 
 Demo 3: Merging
-Merge often and in small bursts
-When running into errors >>>>Head is where your code is and <<<<misc numbers is the other persons code
-Try not to run into scene merge conflicts (very bad)
+- Merge often and in small bursts
+- When running into errors >>>>Head is where your code is and <<<<misc numbers is the other persons code
+- Try not to run into scene merge conflicts (very bad)
 ### Activity 2: Attendance and Final Draft
 Milla Lucido, Sonia Mangat
 [Final Proposal Draft](https://docs.google.com/document/d/1t76iuo2Br_0iJsKgst12nwN4ChwI5BFe61iVY1-cFXg/edit?tab=t.0)
