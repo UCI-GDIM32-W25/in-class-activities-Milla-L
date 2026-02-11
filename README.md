@@ -37,7 +37,7 @@ When there are multiple locator scripts, all but the most recent script gets del
 [MG4 Class Commit](https://github.com/Milla-L/HW4/commit/d99f28d329c495d9b45c5166ba29db8d92bf4275)
 I created the project, got it in Github, imported all the assets, and started making the script types for the objects. I also started on the bird and ground game objects. 
 
-##W5
+## W5
 ### Activity 1: Abstract Classes and Interfaces
 If I were editing it in an actual game setting, I would separate everything out to have their own scripts. It is much easier to read small spurts than the massive logics. I would also make _durability a SerializeField so that it can be tested easier and without having to hard code it. I think that the rest is fine for what it is right now. 
 ### Activity 2: Scriptable Objects Demo
