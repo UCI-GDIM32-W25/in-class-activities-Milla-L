@@ -7,7 +7,8 @@ public class OriginalToTarget : MonoBehaviour
 
     private void Start ()
     {
-        // Vector3 displacementToTarget = ____ - ____;
-        // _original.position += displacementToTarget;
+        Vector3 displacementToTarget = new Vector3(1,0,-7) + _original.position;
+        _original.position += displacementToTarget;
+        Debug.Log(_target.position);
     }
 }
