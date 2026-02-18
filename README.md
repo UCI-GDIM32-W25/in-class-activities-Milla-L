@@ -99,4 +99,4 @@ Minjoo: Setting up UI
 Milla: Building Scene and uploading assets
 ### Activity 5: Commit Proof
 [Final In Class Commit](https://github.com/jedi-narwhal/GDIM32-Final/commit/d738058a06230d8deb7b7d042b5c56e2984f7a66)
-
+I found and uploaded good, free assets for what we wanted as the aesthetic of our game. I also fixed a bit of the player Start() method. 
