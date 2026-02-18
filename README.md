@@ -93,6 +93,8 @@ Minjoo Shin, Sonia Mangat, Milla Lucido
 ![GDIM32BD](https://github.com/user-attachments/assets/3f853932-fcb4-44ab-8eff-53bc8e4da45f)
 ### Activity 4: Initial Tasks
 Sonia: Player and item script
+
 Minjoo: Setting up UI
+
 Milla: Building Scene and uploading assets
 
