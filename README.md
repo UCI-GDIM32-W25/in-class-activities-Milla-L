@@ -76,3 +76,23 @@ Demo 3: Merging
 ### Activity 2: Attendance and Final Draft
 Milla Lucido, Sonia Mangat
 [Final Proposal Draft](https://docs.google.com/document/d/1t76iuo2Br_0iJsKgst12nwN4ChwI5BFe61iVY1-cFXg/edit?tab=t.0)
+
+## W7
+### Activity 1: Raycasting & NPC state machine demo
+- Raycasting keeps chicken within duck sight
+- Using gizmos to monitor line of sight
+- Keeps track of line of sight for the NPC when outside and inside sight
+- HasLineOfSight is really important to keep track
+- In that, Raycast is the most important physics thing to keep track of plate
+- Fire arrow from duck to exact line of sight
+- Raycast returns true or false, hitInfo is what activates brackets
+- Use a sphere cast to check for looking directions because when looking, it is better than a line if needing to go around something
+### Activity 2: Attendance
+Minjoo Shin, Sonia Mangat, Milla Lucido
+### Activity 3: Final Breakdown
+
+### Activity 4: Initial Tasks
+Sonia: Player and item script
+Minjoo: Setting up UI
+Milla: Building Scene and uploading assets
+
