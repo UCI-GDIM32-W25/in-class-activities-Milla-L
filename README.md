@@ -100,3 +100,34 @@ Milla: Building Scene and uploading assets
 ### Activity 5: Commit Proof
 [Final In Class Commit](https://github.com/jedi-narwhal/GDIM32-Final/commit/d738058a06230d8deb7b7d042b5c56e2984f7a66)
 I found and uploaded good, free assets for what we wanted as the aesthetic of our game. I also fixed a bit of the player Start() method. 
+
+## W8
+### Activity 1: Post Process Demo
+- How everything is rendered/drawn on screen
+- RP is series of instructions
+- Shaders are part of pipeline, not pipeline
+- Make sure assets are compatible with RP
+- Post processing changes look of entire game
+- Install package for post processing system
+- Add to camera component and add new layer
+- Post process volume can be put anywhere and make global
+- Make new profile and add effects from there
+- Can be downloaded from asset store
+### Activity 2: Attendance
+Minjoo Shin, Sonia Mangat, Milla Lucido
+### Activity 3: Playtest
+- Change FOV for camera (reduce)
+- Reduce mouse sensitivity
+- Make players unable to walk on furniture 
+- Good movement
+- Unity play has good mouse sensitivity, figure out how to make itch have good sensitivity
+- Assign proper skybox
+### Activity 4: Task Check-In
+Today:
+Sonia: Player Script
+Minjoo: UI Script
+Milla: Audio stuff, make game objects for interior design
+### Activity 5: Final Project work
+[Final In Class Commit](https://github.com/jedi-narwhal/GDIM32-Final/commit/1433dcd82804c5e3864d990e107cfdae80af589d)
+I made prefabs and materials to further customize the scene so that it isn’t a copy and paste. I also made the base for the audiomanager and put in the sources. 
+
