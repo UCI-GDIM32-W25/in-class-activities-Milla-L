@@ -131,3 +131,26 @@ Milla: Audio stuff, make game objects for interior design
 [Final In Class Commit](https://github.com/jedi-narwhal/GDIM32-Final/commit/1433dcd82804c5e3864d990e107cfdae80af589d)
 I made prefabs and materials to further customize the scene so that it isn’t a copy and paste. I also made the base for the audiomanager and put in the sources. 
 
+## W9
+### Activity 1: Demo Notes
+Leave next option more open/ not hard coded
+Every dialogue choice has more different dialogue options 
+Can go back to nodes
+Can go back to one hub point
+Writers can easily edit scriptable objects
+To make multiple NPCs can make a controller that calls on dialogue entity
+### Activity 2: Attendance
+Minjoo Shin, Sonia Mangat, Milla Lucido
+### Activity 3: Playtest Notes
+- UI anchor problem 
+- UI icon shows up 
+- mouse sensitivity 
+- dialogues or clues to do the task
+### Activity 4: Task Check-In
+Sonia: Player Script (Done)
+Minjoo: UI Script (Done)
+Milla: Audio stuff, make game objects for interior design (Done)
+We are actually pretty good on our project and a lot of it now just comes down to putting in the last item and audio in the code. The timer needs to be fixed up a bit, the dialogue tree will be the thing that gets the rest of the project to make sense and be functional as a game and not a walking simulator. Because the dialogue tree is going to be what gives all the quests and makes the objects have an actual use in the game, we are good with everything else. 
+Right now, the audio needs to be put in the right interaction spots, the dialogue tree needs to be made for the NPC, and the timer needs to be more fine tuned. The animations for the key and battery have to be made better and they need to be hidden. Ultimately, our project scale was pretty good considering that a lot of what we need now is quick fixes and our dialogue tree and then all credit should be good. 
+### Activity 5: Final Project Work
+[Final In Class Commit](https://github.com/jedi-narwhal/GDIM32-Final/commit/b9a9bd22cb3e43cd782a278e242236ef949db795) In class today, I inputted the base dialogue tree from the the in class activities and hooked it up to the cat. I also did a little bit of making scriptable objects for the NPC lines. 
