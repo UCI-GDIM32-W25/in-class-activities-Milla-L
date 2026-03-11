@@ -154,3 +154,27 @@ We are actually pretty good on our project and a lot of it now just comes down t
 Right now, the audio needs to be put in the right interaction spots, the dialogue tree needs to be made for the NPC, and the timer needs to be more fine tuned. The animations for the key and battery have to be made better and they need to be hidden. Ultimately, our project scale was pretty good considering that a lot of what we need now is quick fixes and our dialogue tree and then all credit should be good. 
 ### Activity 5: Final Project Work
 [Final In Class Commit](https://github.com/jedi-narwhal/GDIM32-Final/commit/b9a9bd22cb3e43cd782a278e242236ef949db795) In class today, I inputted the base dialogue tree from the the in class activities and hooked it up to the cat. I also did a little bit of making scriptable objects for the NPC lines. 
+
+## W10
+### Activity 1: Attendance
+Minjoo Shin, Sonia Mangat, Milla Lucido
+### Activity 2: Playtesting
+Dialogue should be fixed
+Buttons’ anchor system is not correct; it should be fixed for the final version
+Game over screen is not working. Connect game over screen with the dialogue and the timer
+A timer should be implemented in the dialogue
+The stuffed animal gives tas → timer starts → if timer is over, game is over
+Progression after getting the battery: the dialogue doesn’t advance after getting the battery; it just repeats.
+### Activity 3: Task Check-In
+Sonia has worked on: Audio Manager Script
+Minjoo has worked on: General UI system of the game Timer Dialogue UI 
+Milla has worked on: Dialogue system The inspector & scene design 
+Everyone is on the track now. 
+New tasks 
+Sonia: Add game over audio 
+Minjoo: Connect the timer and let the game over screen work 
+Milla: Finish working on the dialogue and support Sonia & Minjoo
+We are good on our project and a lot of it now just comes down to putting in the last item and audio in the code. Our completion this week includes the branching dialogue system both in the inspector and the code. In terms of scope we are doing well, and the only thing that we decided to take out is one audio track.
+### Activity 4: Final Project Work
+[Final In Class Commit](https://github.com/jedi-narwhal/GDIM32-Final/commit/6a903b7a3a46591211ea7345aa1dd4810ca32c66) In class today, I customized the dialogue script to work how we want, made sure the cursor would work adequately to click on the the option, and added in the key gameobject with an animation. 
+
